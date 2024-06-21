@@ -3,6 +3,9 @@
   <br><b>An open source image forensic toolset</b>
 </p>
 
+# Note
+This is Sherloq version 0.87c, and the most stable version so far that is capable of detecting image fabrications. 
+
 # Introduction
 "*Forensic Image Analysis is the application of image science and domain expertise to interpret the content of an image and/or the image itself in legal matters. Major subdisciplines of Forensic Image Analysis with law enforcement applications include: Photogrammetry, Photographic Comparison, Content Analysis, and Image Authentication.*" (Scientific Working Group on Imaging Technologies)
 
